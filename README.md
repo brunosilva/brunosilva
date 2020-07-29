@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Bruno Silva from Brasil (🇧🇷). I have been working as a front-end developer since 2018 and currently have dedicated myself to React.
+My name is Bruno Silva from Brasil (🇧🇷). I have been working as a front-end developer since 2018 and currently have dedicated myself to Javascript, ES6 and React.
 
 In my free time I like watch soccer (⚽️), to watch movies (🎞️), series and stand-up comedy (📺),  to listen to music (🎵) and enjoying life with a beer and barbecue (🍺).
 
