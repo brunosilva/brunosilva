@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 😁
+
+My name is Bruno Silva from Brasil (🇧🇷). I have been working as a front-end developer since 2018 and currently have dedicated myself to React.
+
+In my free time I like watch soccer (⚽️), to watch movies (🎞️), series and stand-up comedy (📺),  to listen to music (🎵) and enjoying life with a beer and barbecue (🍺).
 
 <!--
 **brunosilva/brunosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
