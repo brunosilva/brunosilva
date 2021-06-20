@@ -10,12 +10,6 @@ In my free time I like watch soccer ⚽️, to watch movies 🎞️, series and 
     <a href="https://www.linkedin.com/in/bruno-silva0109/">
       <img src="https://img.shields.io/badge/-Bruno%20Silva-blue?style=flat-square&logo=linkedin" alt="Perfil Linkedin Bruno Silva">  
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5516992623944" >
-        <img src="https://img.shields.io/badge/-Whatsapp-blue?style=flat-square&logo=whatsapp" alt="Contato Whatsapp">
-    </a>
-    <a href="mailto:brs.rsilva@gmail.com?subject=Hello%20again" >
-        <img src="https://img.shields.io/badge/-brs.rsilva@gmail.com-blue?style=flat-square&logo=gmail" alt="Contato E-mail">
-    </a>
 </div>
 
 <!--
