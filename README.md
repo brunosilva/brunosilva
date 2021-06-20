@@ -7,7 +7,7 @@ In my free time I like watch soccer ⚽️, to watch movies 🎞️, series and 
 
 <div align="left">
     <!-- <p>💬About me:</p> -->
-    <a href="https://www.linkedin.com/in/bruno-silva0109/">
+    <a href="https://www.linkedin.com/in/bruno-silva0109/" target="_blank">
       <img src="https://img.shields.io/badge/-Bruno%20Silva-blue?style=flat-square&logo=linkedin" alt="Perfil Linkedin Bruno Silva">  
     </a>
 </div>
