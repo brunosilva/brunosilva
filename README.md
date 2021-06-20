@@ -5,8 +5,8 @@ My name is Bruno Silva from Brasil (🇧🇷). I have been working as a front-en
 In my free time I like watch soccer ⚽️, to watch movies 🎞️, series and stand-up comedy 📺,  to listen to music 🎵 and enjoying life with a beer and barbecue 🍺.
 
 
-<div align="center">
-    <p>💬About me:</p>
+<div align="left">
+    <!-- <p>💬About me:</p> -->
     <a href="https://www.linkedin.com/in/bruno-silva0109/">
       <img src="https://img.shields.io/badge/-Bruno%20Silva-blue?style=flat-square&logo=linkedin" alt="Perfil Linkedin Bruno Silva">  
     </a>
