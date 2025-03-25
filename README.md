@@ -2,7 +2,6 @@
 
 My name is Bruno Silva from Brasil (🇧🇷). I have been working as a front-end developer since 2018 and currently have dedicated myself to Javascript and React.
 
-Now I'm learning NodeJS.
 
 
 <div align="left">
